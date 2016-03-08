@@ -4,18 +4,20 @@ This game was conceived during a course in Java at KTH. It is a homage to some o
 
 ## Controls:
 
-General: 
+###General: 
+
 *Q* -- Quits the application
+
 *R* -- Rerolls the box placement.
 
-Player 1:
+###Player 1:
 
 *W,A,S,D* 	Movement
 
 
 *T* 		Bomb
 
-Player 2:
+###Player 2:
 
 *Arrows*	Movement
 
