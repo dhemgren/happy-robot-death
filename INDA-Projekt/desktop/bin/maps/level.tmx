@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="19" height="9" tilewidth="32" tileheight="32" nextobjectid="54">
+ <tileset firstgid="1" name="Tileset" tilewidth="32" tileheight="32">
+  <image source="../sprites/tiles/Tileset.png" width="128" height="128"/>
+ </tileset>
+ <layer name="Floor" width="19" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYKA+YKMAj5o1PM2iBgAAUWkCdw==
+  </data>
+ </layer>
+ <layer name="Pillars" width="19" height="9">
+  <data encoding="base64" compression="zlib">
+   eJzjZWBgYARiJgowMxDzQjErA2WAHYtZAmTS2MwadRf93cVJoVncUHMAyJkCxQ==
+  </data>
+ </layer>
+ <layer name="RenderAbove" width="19" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYKAN4CGTpjUYddfAAC4KMAwAALebAZM=
+  </data>
+ </layer>
+ <layer name="Boxes" width="19" height="9">
+  <data encoding="base64" compression="zlib">
+   eJxjYaAOYIHiUbNGzaKVWQBjbABJ
+  </data>
+ </layer>
+ <objectgroup name="Colliders">
+  <object id="21" x="100" y="64" width="24" height="32"/>
+  <object id="30" x="164" y="64" width="24" height="32"/>
+  <object id="31" x="292" y="64" width="24" height="32"/>
+  <object id="32" x="228" y="64" width="24" height="32"/>
+  <object id="33" x="420" y="64" width="24" height="32"/>
+  <object id="34" x="356" y="64" width="24" height="32"/>
+  <object id="35" x="484" y="64" width="24" height="32"/>
+  <object id="36" x="356" y="128" width="24" height="32"/>
+  <object id="37" x="484" y="128" width="24" height="32"/>
+  <object id="38" x="228" y="128" width="24" height="32"/>
+  <object id="39" x="100" y="128" width="24" height="32"/>
+  <object id="40" x="164" y="128" width="24" height="32"/>
+  <object id="41" x="420" y="128" width="24" height="32"/>
+  <object id="42" x="292" y="128" width="24" height="32"/>
+  <object id="43" x="356" y="192" width="24" height="32"/>
+  <object id="44" x="484" y="192" width="24" height="32"/>
+  <object id="45" x="228" y="192" width="24" height="32"/>
+  <object id="46" x="100" y="192" width="24" height="32"/>
+  <object id="47" x="164" y="192" width="24" height="32"/>
+  <object id="48" x="420" y="192" width="24" height="32"/>
+  <object id="49" x="292" y="192" width="24" height="32"/>
+  <object id="50" x="64" y="256" width="480" height="32"/>
+  <object id="51" x="32" y="0" width="32" height="288"/>
+  <object id="52" x="544" y="0" width="32" height="288"/>
+  <object id="53" x="64" y="0" width="480" height="32"/>
+ </objectgroup>
+</map>

@@ -1,0 +1,116 @@
+menuitems.png
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+hostactive
+  rotate: false
+  xy: 2, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+hostactive
+  rotate: false
+  xy: 132, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+hostactive
+  rotate: false
+  xy: 262, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 3
+hostidle
+  rotate: false
+  xy: 2, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+joinactive
+  rotate: false
+  xy: 132, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+joinactive
+  rotate: false
+  xy: 262, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+joinactive
+  rotate: false
+  xy: 2, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 3
+joinidle
+  rotate: false
+  xy: 132, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+mainlogobw
+  rotate: false
+  xy: 2, 104
+  size: 256, 128
+  orig: 256, 128
+  offset: 0, 0
+  index: -1
+mainlogobwdist
+  rotate: false
+  xy: 2, 234
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: 1
+mainlogobwdist
+  rotate: false
+  xy: 2, 428
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: 2
+mainlogobwlarge
+  rotate: false
+  xy: 2, 622
+  size: 384, 192
+  orig: 384, 192
+  offset: 0, 0
+  index: -1
+quitactive
+  rotate: false
+  xy: 2, 816
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+quitactive
+  rotate: false
+  xy: 132, 816
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+quitactive
+  rotate: false
+  xy: 262, 816
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 3
+quitidle
+  rotate: false
+  xy: 2, 850
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1

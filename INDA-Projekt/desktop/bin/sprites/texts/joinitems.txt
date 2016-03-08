@@ -1,0 +1,60 @@
+joinitems.png
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+connect
+  rotate: false
+  xy: 2, 2
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: 1
+connecterror
+  rotate: false
+  xy: 2, 36
+  size: 256, 32
+  orig: 256, 32
+  offset: 0, 0
+  index: 1
+gamefull
+  rotate: false
+  xy: 260, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+makeactive
+  rotate: false
+  xy: 2, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+makeactive
+  rotate: false
+  xy: 132, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+makeactive
+  rotate: false
+  xy: 262, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 4
+makeidle
+  rotate: false
+  xy: 2, 104
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+presstoreturn
+  rotate: false
+  xy: 132, 104
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: 1

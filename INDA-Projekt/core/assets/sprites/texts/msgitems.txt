@@ -1,0 +1,32 @@
+msgitems.png
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+allplayersleft
+  rotate: false
+  xy: 2, 2
+  size: 256, 64
+  orig: 256, 64
+  offset: 0, 0
+  index: 1
+hostleft
+  rotate: false
+  xy: 2, 68
+  size: 330, 64
+  orig: 330, 64
+  offset: 0, 0
+  index: 1
+leavegame
+  rotate: false
+  xy: 2, 134
+  size: 330, 32
+  orig: 330, 32
+  offset: 0, 0
+  index: 1
+leavegamehost
+  rotate: false
+  xy: 2, 168
+  size: 330, 40
+  orig: 330, 40
+  offset: 0, 0
+  index: 1

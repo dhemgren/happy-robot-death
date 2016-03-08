@@ -1,0 +1,151 @@
+lobbyitems.png
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+backactive
+  rotate: false
+  xy: 2, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+backactive
+  rotate: false
+  xy: 132, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+backactive
+  rotate: false
+  xy: 262, 2
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 3
+backidle
+  rotate: false
+  xy: 2, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+lobbybanner
+  rotate: false
+  xy: 132, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: -1
+p1connected
+  rotate: false
+  xy: 262, 36
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p1empty
+  rotate: false
+  xy: 2, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p1ready
+  rotate: false
+  xy: 132, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p2connected
+  rotate: false
+  xy: 262, 70
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p2empty
+  rotate: false
+  xy: 2, 104
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p2ready
+  rotate: false
+  xy: 132, 104
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p3connected
+  rotate: false
+  xy: 262, 104
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p3empty
+  rotate: false
+  xy: 2, 138
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p3ready
+  rotate: false
+  xy: 132, 138
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p4connected
+  rotate: false
+  xy: 262, 138
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p4empty
+  rotate: false
+  xy: 2, 172
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+p4ready
+  rotate: false
+  xy: 132, 172
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+zuluactive
+  rotate: false
+  xy: 262, 172
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
+zuluactive
+  rotate: false
+  xy: 2, 206
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 2
+zuluactive
+  rotate: false
+  xy: 132, 206
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 3
+zuluidle
+  rotate: false
+  xy: 262, 206
+  size: 128, 32
+  orig: 128, 32
+  offset: 0, 0
+  index: 1
